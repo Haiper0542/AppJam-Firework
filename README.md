@@ -16,13 +16,12 @@
   + 막대기 폭죽 : 데미지는 높지만 공격속도가 느린 폭죽으로, 총 3발 정도가 발사됩니다.
 ### 게임 화면
 * **게임이 시작되는 방입니다.**<br>
-<img width="70%" src=https://user-images.githubusercontent.com/40797534/56399107-19889800-6287-11e9-9c29-b70f75fe194c.png></img>
 <img width="70%" src=https://user-images.githubusercontent.com/40797534/56400417-cfa3b000-628e-11e9-9001-08d397323373.png></img>
 <img width="70%" src=https://user-images.githubusercontent.com/40797534/56400420-d03c4680-628e-11e9-8840-14121598194b.png></img>
-* **게임시작 메인화면 UI입니다.**<br>
 <img width="70%" src=https://user-images.githubusercontent.com/40797534/56400421-d16d7380-628e-11e9-8705-e77a22b6afdd.png></img>
-* **컨트롤러 모델입니다.**<br>
+* **게임시작 메인화면 UI입니다.**<br>
 <img width="70%" src=https://user-images.githubusercontent.com/40797534/56400423-d2060a00-628e-11e9-8b14-da51a810e6a0.png></img>
+* **컨트롤러 모델입니다.**<br>
 * **막대기 폭죽은 데미지 높은 폭죽 3발을 발사합니다.**<br>
 <img width="70%" src=https://user-images.githubusercontent.com/40797534/56400424-d29ea080-628e-11e9-832d-0371a34b582a.png></img>
 <img width="70%" src=https://user-images.githubusercontent.com/40797534/56400426-d3cfcd80-628e-11e9-91c6-c103d8df0a90.png></img>
