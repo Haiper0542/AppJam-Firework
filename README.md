@@ -14,6 +14,10 @@
 + **폭죽**
   + 연발형 폭죽 : 데미지가 낮은 폭죽 여러개가 매우 빠르게 발사됩니다.
   + 막대기 폭죽 : 데미지는 높지만 공격속도가 느린 폭죽으로, 총 3발 정도가 발사됩니다.
+  
+### 시연 영상
+* [https://youtu.be/qrfWL30EF-I](https://youtu.be/qrfWL30EF-I) <br>
+
 ### 게임 화면
 * **게임이 시작되는 방입니다.**<br>
 <img width="70%" src=https://user-images.githubusercontent.com/40797534/56400417-cfa3b000-628e-11e9-9001-08d397323373.png></img>
